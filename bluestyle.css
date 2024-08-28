@@ -3,6 +3,12 @@ body {
 }
 
 h1 {
+    text-align: center;
     color: navy;
     margin-left: 20px;
+}
+
+.firstimage {
+    display: flex;
+    justify-content: center;
 }
